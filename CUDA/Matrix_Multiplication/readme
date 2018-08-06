@@ -1,0 +1,5 @@
+Input the make
+Create random matrix by matrix
+mp_c is version of C
+mp_omp is version of OpenMP
+mp_cu is version of CUDA
