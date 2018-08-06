@@ -1,0 +1,4 @@
+1. input the make
+2. input mpirun -np "n" -hostfile hostfile ./mpi_q
+"n" is must odd number.
+and 2^n is below the number of integer. 
